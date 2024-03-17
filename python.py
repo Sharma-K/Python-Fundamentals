@@ -33,3 +33,10 @@ while counter < 4:
 
 for x in range(4):
     print(x)
+
+
+sample = "keshav"
+
+print(sample*2)
+print(sample[2:4])
+print(sample[-1]+sample[1])
