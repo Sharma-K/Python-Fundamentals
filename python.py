@@ -37,6 +37,8 @@ for x in range(4):
 
 sample = "keshav"
 
-print(sample*2)
-print(sample[2:4])
-print(sample[-1]+sample[1])
+print(sample*2) #keshavkeshav
+print(sample[2:4]) #sh
+print(sample[-1]+sample[1]) #ve
+print(sample.find('av'))
+print(sample.split('a'))

@@ -15,3 +15,9 @@ for name, roll in students:
     
 for name, roll in students:
     print("Roll: {1} and Name: {0}".format(name, roll))
+
+
+# Operations:
+    
+print(students + [('Addition',54)])
+print(students*2)
